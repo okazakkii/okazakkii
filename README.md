@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @okazakkii
-- I'm a beginner programmer looking to learn new technologies and get better at coding.
-- My twitter is @dev_okazaki
+
